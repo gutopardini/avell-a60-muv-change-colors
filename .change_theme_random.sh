@@ -41,7 +41,7 @@ then
 elif [ $random_number = 4 ]
 then
 	echo "Colorful"
-	gsettings set org.cinnamon.desktop.interface icon-theme 'Mint-X-Brown'
+	gsettings set org.cinnamon.desktop.interface icon-theme 'candy-icons'
 	gsettings set org.cinnamon.theme name 'Mint-Y-Dark-Red'
 	gsettings set org.cinnamon.desktop.wm.preferences theme 'Mint-Y-Dark-Orange'
 	gsettings set org.cinnamon.desktop.interface gtk-theme 'Mint-Y-Dark-Purple'
