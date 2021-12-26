@@ -1,4 +1,4 @@
-# avell-a60-muv-change-colors
+# ITE 8291 (rev 0.03) with Linux Mint Cinnamon
 Shell script to change wallpaper and mechanical keys RGB led colors
 
 This is a personal project to manipulate wallpaper, folder colors in Cinnamon with keyboard colors.
