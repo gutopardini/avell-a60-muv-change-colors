@@ -1,1 +1,2 @@
-nvidia-settings --assign CurrentMetaMode="nvidia-auto-select +0+0 { ForceFullCompositionPipeline = On,  }"
+nvidia-settings --assign CurrentMetaMode="nvidia-auto-select +0+0 { ForceFullCompositionPipeline = On, ForceCompositionPipeline = On, TrippleBuffer = On }"
+xrandr --output DP-0 --mode 1920x1080 --rate 120
